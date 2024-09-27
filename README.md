@@ -26,6 +26,8 @@ This script:
 ## Status
 
 The script is functioning and currently updates all my events.
+Load script into own personal script storage at https://script.google.com/
+
 
 (c) Pliss Mikhail 27.09.2024"
 
